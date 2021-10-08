@@ -1,33 +1,40 @@
-# Azure Purview
+# Welcome to the FastTrack for Azure Purview Call
+## We will start 1-2 minutes after the scheduled time to accommodate those still connecting
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This call will not be recorded due to the wide audience and to encourage questions.
 
-As the maintainer of this project, please make a few updates:
+**Questions?** Feel free to type them in the chat window at any time. Note that questions you post will be public.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+**Slideless** No PowerPoint, we promise! As we update this content (http://aka.ms/fta-azurepurview) you will get the changes straight away.
 
-## Contributing
+Please give us your feedback on https://aka.ms/ftalive-feedback
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Azure Purview 
+Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multi-cloud, and software-as-a-service (SaaS) data. This 1.5 hour session will provide you the opportunity to expand on your knowledge of Azure Purview. It will be delivered by Microsoft FastTrack for Azure engineers. Bring your questions!
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Agenda
+* Overview
+    * [Purview studio](https://docs.microsoft.com/en-us/azure/purview/use-purview-studio)
+    *	[Collection Architecture](https://docs.microsoft.com/en-us/azure/purview/concept-best-practices-collections)
+* Data Map
+    *	[Scans data sources](https://docs.microsoft.com/en-us/azure/purview/register-scan-azure-multiple-sources)
+    *	[Lineage](https://docs.microsoft.com/en-us/azure/purview/catalog-lineage-user-guide)
+    *	[Classification](https://docs.microsoft.com/en-us/azure/purview/apply-classifications)
+* Data Catalog
+    *	[Catalog search](https://docs.microsoft.com/en-us/azure/purview/concept-search)
+    *	[Business Glossary](https://docs.microsoft.com/en-us/azure/purview/concept-business-glossary)
+* Data Insights and Management
+    *	[Insight reports](https://docs.microsoft.com/en-us/azure/purview/asset-insights)
+    *	[Private endpoint](https://docs.microsoft.com/en-us/azure/purview/catalog-private-link)
+    *	[Monitor](https://docs.microsoft.com/en-us/azure/purview/catalog-private-link)
+* Q&A
 
-## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+You will need:
+•	Microsoft Teams desktop client or Teams web client to view presentation.
+•	Optional headphones to make it easier to listen to and interact with the presenters.
+
+Microsoft respects your privacy. For complete information on our data collection and use practices, please read our Privacy Statement.
+
+
