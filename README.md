@@ -1,3 +1,7 @@
+# IMPORTANT
+
+With the disbandment of the FastTrack for Azure organization within Microsoft, this reposistory is being archived, and will no longer be maintained.  However, the information is still current as of when it is being archived.
+
 # Welcome to the FastTrack for Azure Live Azure Purview
 ## We will start 1-2 minutes after the scheduled time to accommodate those still connecting
 
